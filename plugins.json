@@ -1,0 +1,22 @@
+{
+    "navigator": {
+        "source": "containership.plugin.navigator",
+        "description": "A web-ui for managing your ContainerShip cluster"
+    },
+    "service-discovery": {
+        "source": "containership.plugin.service-discovery",
+        "description": "A service discovery plugin for ContainerShip"
+    },
+    "cloud-hints": {
+        "source": "containership.plugin.cloud-hints",
+        "description": "A ContainerShip plugin used to automatically set cloud metadata in the form of host tags"
+    },
+    "tide": {
+        "source": "containership.plugin.tide",
+        "description": "A CLI plugin for managing tide-scheduler jobs on ContainerShip"
+    },
+    "tide-scheduler": {
+        "source": "containership.plugin.tide-scheduler",
+        "description": "A cron-like job scheduler for ContainerShip"
+    }
+}
