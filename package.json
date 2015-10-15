@@ -1,6 +1,6 @@
 {
   "name": "plugins.containership.io",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "Contains list of officially supported ContainerShip plugins",
   "scripts": {
