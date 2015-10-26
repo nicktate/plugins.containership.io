@@ -15,6 +15,10 @@
         "source": "containership.plugin.cloud-hints",
         "description": "A ContainerShip plugin used to automatically set cloud metadata in the form of host tags"
     },
+    "standalone": {
+        "source": "containership.plugin.standalone",
+        "description": "Official ContainerShip plugin for launching a local ContainerShip cluster"
+    },
     "tide": {
         "source": "containership.plugin.tide",
         "description": "A CLI plugin for managing tide-scheduler jobs on ContainerShip"
