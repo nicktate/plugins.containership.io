@@ -21,10 +21,6 @@
     },
     "tide": {
         "source": "containership.plugin.tide",
-        "description": "A CLI plugin for managing tide-scheduler jobs on ContainerShip"
-    },
-    "tide-scheduler": {
-        "source": "containership.plugin.tide-scheduler",
         "description": "A cron-like job scheduler for ContainerShip"
     },
     "logs": {
