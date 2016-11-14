@@ -26,5 +26,9 @@
     "logs": {
         "source": "containership.plugin.logs",
         "description": "Official logging plugin for ContainerShip"
+    },
+    "ntp": {
+        "source": "containership.plugin.ntp",
+        "description": "Official NTP plugin for ContainerShip"
     }
 }
